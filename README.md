@@ -121,7 +121,9 @@ python compiler_gui.py path/to/your_file.c
 
 ```
 c-compiler-gui/
-├── compiler_gui.py   # Main application (single file)
+├── m_compiler.py  # Main application (single file)
+└── example_c_file.c #exmaple file whic i used to compile to test
+└── example_c_file .exe # example file after compiled
 └── README.md
 ```
 
